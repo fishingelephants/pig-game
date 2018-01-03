@@ -1,1 +1,2 @@
-# pig-game
+# Pig Game - Oink Oink
+- Javascript Mini Project
